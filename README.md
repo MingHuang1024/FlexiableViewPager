@@ -8,4 +8,4 @@
 
 下面是效果图：
 
-![](demonstration.gif)
+![](domonstration.gif)
